@@ -13,3 +13,8 @@ A simple script that scans the specified ports from the database and then report
    ```bash
    python port_scanner.py
    ```
+## Disclaimer
+
+This tool is intended for educational purposes and for use on systems you own or have explicit permission to test.
+
+Do not use this tool to scan systems or networks without authorization. The author is not responsible for any misuse of this software.
